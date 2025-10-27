@@ -1,0 +1,2 @@
+# Pasta para assets da aplicação
+# Os arquivos de ícone e splash screen devem ser colocados aqui
